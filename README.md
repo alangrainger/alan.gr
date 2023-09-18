@@ -1,6 +1,6 @@
 # How to deploy
 
-1. Be working in the repo in Codespaces.
+1. Make any changes to the repo using Codespaces.
 
 2. Click on the hamburger menu > Terminal > Run Build Task.
 

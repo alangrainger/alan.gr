@@ -15,4 +15,6 @@ One of the best things about it is that it's super easy to customise if you know
 | [Image Captions](https://github.com/alangrainger/obsidian-image-captions) | Adds captions to images |
 | [Updated modified date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) | Automatically update a frontmatter `modified` field when you edit a note |
 
+## Where to find me
+
 You can find me as [AlanG](https://forum.obsidian.md/u/alang/summary) on the Obsidian forums.
