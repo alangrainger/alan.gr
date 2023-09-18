@@ -11,17 +11,14 @@ Various things I've made.
 
 One of the best things about it is that it's super easy to customise if you know a bit of Javascript. These are the plugins I've written for it:
 
+- [Share Note](https://github.com/alangrainger/obsidian-share) - Share an encrypted copy of a note
 - [Google Photos](https://github.com/alangrainger/obsidian-google-photos) - Adds Google Photos integration
 - [Image Captions](https://github.com/alangrainger/obsidian-image-captions) - Adds captions to images
-- [Folder Notes](https://github.com/alangrainger/obsidian-folder-notes) - Adds Folder Notes to the default file tree
-
-I also maintain unofficial portable builds of Obsidian for Windows:
-
-[Obsidian Portable](https://github.com/alangrainger/obsidian-portable)
+- [Updated modified date](https://github.com/alangrainger/obsidian-frontmatter-modified-date) - Automatically update a frontmatter `modified` field when you edit a note
 
 ## Photography
 
-- [My photography portfolio](https://photos.thiswaytospain.com/)
+- [Some travel photos](https://photos.thiswaytospain.com/)
 
 ---
 
