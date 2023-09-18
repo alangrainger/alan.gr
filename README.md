@@ -1,4 +1,8 @@
-# How to deploy
+# Personal site
+
+Repo for https://alan.gr/
+
+## How to deploy
 
 1. Make any changes to the repo using Codespaces.
 
