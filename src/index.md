@@ -5,7 +5,7 @@ title: Alan Grainger
 
 Various things I've made:
 
-- [Plugins for Obsidian](obsidian.md)
+- [Plugins for Obsidian](obsidian)
 - [Some travel photos](https://photos.thiswaytospain.com/)
 
 ---
